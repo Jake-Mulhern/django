@@ -29,6 +29,10 @@ What's new in Django 4.1
 Minor features
 --------------
 
+:mod:`django.shortcuts`
+~~~~~~~~~~~~~~~~~~~~~~
+* The new :func:`django.shortcuts.make_tast` function returns ``'toast'``.
+
 :mod:`django.contrib.admin`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
